@@ -1,5 +1,5 @@
 [
-  {
+
   "subscriptions": [
     {
       "name": "hello",
@@ -7,5 +7,5 @@
       "message": "hello"
     }
   ],
-  }
+
 ]
